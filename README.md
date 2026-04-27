@@ -22,10 +22,12 @@ I have been striving to be the best in the fields of computers and software that
 
 ## 📈 Currently Learning
 - Advanced Data Structures
-- System Design
+- System Design & 
 - linux
 - Web Development (Node.js)
 
 ## 📫 Contact
 - GitHub: https://github.com/dormhi
 - linkedin: www.linkedin.com/in/davutcuci
+- instagram: https://www.instagram.com/dormhi/
+- 
