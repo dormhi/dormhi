@@ -1,8 +1,8 @@
-# Hi, I'm Davut.
+# Hi, I'm Davut can cüci. people generally know me as "Dormhi"
 I have been striving to be the best in the fields of computers and software that I have been interested in since my childhood. 👋
 
 ## 🚀 Who Am I?
-- 🎓 Computer Engineering student 
+- 🎓 Computer Engineering student 3'rd class
 - 💻 Interested in software development and problem solving
 - 📍 Based in Turkiye
 
@@ -11,7 +11,6 @@ I have been striving to be the best in the fields of computers and software that
    - c++
    - python
    - html/css
-   - 
 
 - Areas of Interest:
   - Algorithms & Design
@@ -30,4 +29,4 @@ I have been striving to be the best in the fields of computers and software that
 - GitHub: https://github.com/dormhi
 - linkedin: www.linkedin.com/in/davutcuci
 - instagram: https://www.instagram.com/dormhi/
-- 
+- Mail: davutcancuci93@gmail.com/davutdormhi@gmail.com
