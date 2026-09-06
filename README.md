@@ -30,4 +30,4 @@ I have been striving to be the best in the fields of computers and software that
 - linkedin: www.linkedin.com/in/davutcuci
 - instagram: https://www.instagram.com/dormhi/
 - Mail: davutcancuci93@gmail.com/davutdormhi@gmail.com
-- website: dormhi.com
+- website: htttps://www.dormhi.com/
