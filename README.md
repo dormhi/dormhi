@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Davut Can Cüci — a.k.a. <i>Dormhi</i> 👋</h1>
+<h1 align="center">Hi, I'm Davut Can Cüci 👋</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=520&lines=Computer+Engineering+student;I+build+tools+I+actually+use;macOS+%7C+Web+%7C+Bots+%7C+Machine+Learning" alt="Typing SVG" /></a>
@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 
-- 🎓 3rd-year **Computer Engineering** student based in **Türkiye** 🇹🇷
+- 🎓 4th-year **Computer Engineering** student based in **Türkiye** 🇹🇷
 - 💻 I've been into computers and software since childhood — now I build the tools I wish existed
 - 🧠 Interested in **algorithms**, **machine learning / AI** and **business analysis**
 - 🌱 Currently learning **advanced data structures**, **system design**, **Linux** and **Node.js**
@@ -55,9 +55,8 @@
 | ⚡ [**macwatt**](https://github.com/dormhi/macwatt) | Lightweight macOS menu bar app showing live volts, amps and watts for your MacBook — plus charger/cable identification and *why it isn't charging*. | Objective-C |
 | 🎮 [**syncbreaker**](https://github.com/dormhi/syncbreaker) | Cyberpunk-themed browser defense game built from scratch with HTML5 Canvas, with an online leaderboard. | JavaScript |
 | 📥 [**DMS**](https://github.com/dormhi/DMS) | Self-hosted Telegram bot that downloads media from social media platforms. | Python |
-| 🤖 [**multibot_discord**](https://github.com/dormhi/multibot_discord) | Multi-purpose Discord bot. | TypeScript |
-| 🔬 [**project-deep-learning**](https://github.com/dormhi/project-deep-learning) | Industrial defect classification vs. anomaly detection. | Jupyter / Python |
 | 🚗 [**CargallerySAD**](https://github.com/dormhi/CargallerySAD) | Systems analysis & design project — my first big website. | JavaScript |
+| 📝 [**dormhiQuizzer**](https://github.com/dormhi/dormhiQuizzer) | Quiz management system built for an object-oriented programming course. | Java |
 
 ---
 
@@ -71,7 +70,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=dormhi&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-<p align="center"><i>"Striving to get better every day."</i> — feel free to reach out!</p>
