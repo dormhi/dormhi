@@ -50,13 +50,14 @@
 
 ### ⭐ Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| ⚡ [**macwatt**](https://github.com/dormhi/macwatt) | Lightweight macOS menu bar app showing live volts, amps and watts for your MacBook — plus charger/cable identification and *why it isn't charging*. | Objective-C |
-| 🎮 [**syncbreaker**](https://github.com/dormhi/syncbreaker) | Cyberpunk-themed browser defense game built from scratch with HTML5 Canvas, with an online leaderboard. | JavaScript |
-| 📥 [**DMS**](https://github.com/dormhi/DMS) | Self-hosted Telegram bot that downloads media from social media platforms. | Python |
-| 🚗 [**CargallerySAD**](https://github.com/dormhi/CargallerySAD) | Systems analysis & design project — my first big website. | JavaScript |
-| 📝 [**dormhiQuizzer**](https://github.com/dormhi/dormhiQuizzer) | Quiz management system built for an object-oriented programming course. | Java |
+| Project | Description | Stack | Live |
+|---|---|---|---|
+| 👁️ **KelepEye** | AI-powered Chrome extension that analyzes second-hand electronics listings and tells you whether it's a bargain — fair price, offer price and risks in the listing. | Python · FastAPI · Claude | [kelepeye.dormhi.com](https://kelepeye.dormhi.com) |
+| 🎮 [**syncbreaker**](https://github.com/dormhi/syncbreaker) | Cyberpunk-themed browser defense game built from scratch with HTML5 Canvas, with an online leaderboard. | JavaScript | [syncbreaker.dormhi.com](https://syncbreaker.dormhi.com) |
+| ⚡ [**macwatt**](https://github.com/dormhi/macwatt) | Lightweight macOS menu bar app showing live volts, amps and watts for your MacBook — plus charger/cable identification and *why it isn't charging*. | Objective-C | — |
+| 📥 [**DMS**](https://github.com/dormhi/DMS) | Self-hosted Telegram bot that downloads media from social media platforms. | Python | — |
+| 🚗 [**CargallerySAD**](https://github.com/dormhi/CargallerySAD) | Systems analysis & design project — my first big website. | JavaScript | — |
+| 📝 [**dormhiQuizzer**](https://github.com/dormhi/dormhiQuizzer) | Quiz management system built for an object-oriented programming course. | Java | — |
 
 ---
 
